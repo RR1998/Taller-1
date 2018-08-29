@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Kosugi|Noto+Sans');
+
+hr{
+    color: #cbcbcb
+}
+body {
+    background-color: #767de4;
+}
+
+p{
+    color: blue;
+    padding :10px;
+    font-family: 'Noto Sans', sans-serif;
+}
+i{
+    border-radius: 10px;
+    color: black;
+}
+.tittle{
+    width: 500px;
+    padding: 70px; 
+    margin: 10px;
+    color: black;
+    font-family: 'Kosugi', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.div1{
+    background-color: white;
+    padding: 1.3em;
+    width: 700px;
+    border: 10px solid black;
+    margin: 10px;
+}
+strong{
+    color: red;
+}
+.headerdiv{
+    text-align: right;
+}
+.text input{
+    border: 1px solid rgb(170, 169, 169);
+    padding: 0.5em;
+    background: white;
+}
+.text input[type = "submit"]:hover{
+    background: rgb(210, 210, 210);
+
+}
+article tf{
+    padding: 20%;
+    margin: 20px auto;
+}
+
+.icon{
+    display: block;
+    border-radius: 50px;
+    font-size: 2em;
+    background-color: black;
+    color: white;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    padding: 10px;
+}
+.icon i{
+    display: block;
+    top: 11px;
+    position: relative;
+}
